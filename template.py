@@ -1,3 +1,4 @@
+# This script is to set up the initial folder structure
 import os
 from pathlib import Path
 
